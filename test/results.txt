@@ -1,0 +1,3 @@
+# Hydra v8.1 run at 2018-10-08 19:59:21 on 172.20.10.5 ssh (/hydra_api/hydra -L .\user.txt -P .\pass.txt -o results.txt -f 172.20.10.5 ssh)
+# Hydra v8.1 run at 2018-10-08 20:26:43 on 172.20.10.5 ssh (/hydra_api/hydra -R)
+# Hydra v8.1 run at 2018-10-08 20:27:15 on 172.20.10.5 ssh (/hydra_api/hydra -R)

